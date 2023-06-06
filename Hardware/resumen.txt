@@ -1,0 +1,4 @@
+Tres partes internas de la computadora:
+- CPU
+- GPU
+- RAM
