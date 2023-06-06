@@ -1,0 +1,55 @@
+1  pwd
+    2  code .
+    3  git push -u origin main
+    4  git branch -M main
+    5  git push -u origin main
+    6  git status
+    7  git commit -m "commit 01 de GabrielaRomero"
+    8  git push -u origin main
+    9  git add .
+   10  git status
+   11  git commit -m "commit 01 de GabrielaRomero"
+   12  git status
+   13  git push -u origin main
+   14  git branch feature01
+   15  git checkout feature01
+   16  mkdir Terminal Hardware
+   17  touch Terminal/resumen.txt
+   18  touch Hardware/resumen.txt
+   19  ls -R
+   20  git status
+   21  git add .
+   22  git commit -m "commit 02 de GabrielaRomero"
+   23  git push -u origin feature01
+   24  git branch feature02
+   25  git checkout feature02
+   26  cd Terminal/resumen.txt
+   27  ls
+   28  git checkout feature01
+   29  cd Terminal/resumen.txt 
+   30  cd Terminal/
+   31  nano resumen.txt
+   32  cd ..
+   33  cd Hardware/
+   34  nano resumen.txt
+   35  git add .
+   36  git commit -m "commit 03 de GabrielaRomero"
+   37  git checkout feature02
+   38  cd ..
+   39  git add .
+   40  git status
+   41  git checkout feature01
+   42  git add .
+   43  git commit -m "commit 03 de GabrielaRomero"
+   44  git status
+   45  git checkout feature02
+   46  git merge feature01
+   47  git push origin feature02
+   48  git checkout main
+   49  ls
+   50  mv comandos.txt comandosUtilizados.txt
+   51  ls
+   52  history
+   53  nano comandosUtilizados.txt
+   54  o
+   55  history
