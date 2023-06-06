@@ -1,0 +1,5 @@
+- ls -R
+- rmdir
+- mkdir
+- cp
+- cd
